@@ -1,5 +1,5 @@
 # foodinfo
-Identification of additives and preservatives in packaged foods using python and image processing
+Identification of additives and preservatives in packaged foods using python and image processing, 
 Food is an essential element for all living organisms. Processed foods have a very 
 limited life, in order to preserve them for a longer time and to have good flavor, texture, and 
 taste, food additives and preservatives are used. This study is taken to investigate the effects of 
